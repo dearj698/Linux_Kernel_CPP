@@ -10,7 +10,7 @@ File::File(const char *Name) {
     stat(Name, &buf);
 }
 
-File::~File() {
+File::~File() {//destructor
 
 }
 

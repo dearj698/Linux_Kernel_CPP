@@ -123,32 +123,32 @@ depend:
 	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/build
 .PHONY : 3307/fast
 
-FileManager.o: FileManager.cpp.o
+File.o: File.cpp.o
 
-.PHONY : FileManager.o
+.PHONY : File.o
 
 # target to build an object file
-FileManager.cpp.o:
-	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/FileManager.cpp.o
-.PHONY : FileManager.cpp.o
+File.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/File.cpp.o
+.PHONY : File.cpp.o
 
-FileManager.i: FileManager.cpp.i
+File.i: File.cpp.i
 
-.PHONY : FileManager.i
+.PHONY : File.i
 
 # target to preprocess a source file
-FileManager.cpp.i:
-	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/FileManager.cpp.i
-.PHONY : FileManager.cpp.i
+File.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/File.cpp.i
+.PHONY : File.cpp.i
 
-FileManager.s: FileManager.cpp.s
+File.s: File.cpp.s
 
-.PHONY : FileManager.s
+.PHONY : File.s
 
 # target to generate assembly for a file
-FileManager.cpp.s:
-	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/FileManager.cpp.s
-.PHONY : FileManager.cpp.s
+File.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/File.cpp.s
+.PHONY : File.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 3307"
-	@echo "... FileManager.o"
-	@echo "... FileManager.i"
-	@echo "... FileManager.s"
+	@echo "... File.o"
+	@echo "... File.i"
+	@echo "... File.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
