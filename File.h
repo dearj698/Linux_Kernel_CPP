@@ -7,46 +7,49 @@
 #include <string>
 #include <sys/stat.h>
 #include <vector>
-
+#include <cstdio>
 class File {
-    private:
+
+
+private:
         std::string Name;
 
         std::string Type;
 
-        off_t FileSize;
+        off_t FileSize{};
 
-        uid_t OwnerID;
+        uid_t OwnerID{};
 
         std::string OwnerName;
 
-        gid_t GroupId;
+        gid_t GroupId{};
 
         std::string GroupName;
 
         std::string Permission;
 
-        time_t    AccessTime;
+        time_t    AccessTime{};
 
-        time_t    ModTime;   /* time of last modification */
+        time_t    ModTime{};   /* time of last modification */
 
-        time_t    StatusChTime;   /* time of last status change */
+        time_t    StatusChTime{};   /* time of last status change */
 
-        blksize_t BlockSize;
+        blksize_t BlockSize{};
 
-        std::vector<File> ChildrenFile;
+        std::vector<FILE> ChildrenFile;
 
-        int Errno;
-    public:
+        int ErrorNUm;
+
+public:
         explicit File(const char * Name);
 
-        void Dump(std::fstream FileStream);
+        void Dump(FILE* FileStream);
 
         void Rename(std::string Name);
 
         void Remove();
 
-        bool Compare(File AnotherFile);
+        bool Compare(FILE AnotherFile);
 
         void Expand();
 
@@ -74,11 +77,38 @@ class File {
 
         blksize_t getBlockSize() const;
 
-        const std::vector<File> &getChildrenFile() const;
+        const std::vector<FILE> &getChildrenFile() const;
 
-        int getErrno() const;
+        int getErrorNUm() const;
 
-        ~File();
+        // setters for all attributes
+        void setName(const std::string &name);
+
+        void setType(const std::string &type);
+
+        void setFileSize(off_t fileSize);
+
+        void setOwnerId(uid_t ownerId);
+
+        void setOwnerName(const std::string &ownerName);
+
+        void setGroupId(gid_t groupId);
+
+        void setGroupName(const std::string &groupName);
+
+        void setAccessTime(time_t accessTime);
+
+        void setModTime(time_t modTime);
+
+        void setStatusChTime(time_t statusChTime);
+
+        void setBlockSize(blksize_t blockSize);
+
+        void setChildrenFile(const std::vector<FILE> &childrenFile);
+
+        void setErrorNUm(int errorNUm);
+
+         ~File();
 };
 
 
