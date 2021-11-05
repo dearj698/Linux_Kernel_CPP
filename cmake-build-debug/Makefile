@@ -177,6 +177,195 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mycat.o: mycat.cpp.o
+
+.PHONY : mycat.o
+
+# target to build an object file
+mycat.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mycat.cpp.o
+.PHONY : mycat.cpp.o
+
+mycat.i: mycat.cpp.i
+
+.PHONY : mycat.i
+
+# target to preprocess a source file
+mycat.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mycat.cpp.i
+.PHONY : mycat.cpp.i
+
+mycat.s: mycat.cpp.s
+
+.PHONY : mycat.s
+
+# target to generate assembly for a file
+mycat.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mycat.cpp.s
+.PHONY : mycat.cpp.s
+
+mycp.o: mycp.cpp.o
+
+.PHONY : mycp.o
+
+# target to build an object file
+mycp.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mycp.cpp.o
+.PHONY : mycp.cpp.o
+
+mycp.i: mycp.cpp.i
+
+.PHONY : mycp.i
+
+# target to preprocess a source file
+mycp.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mycp.cpp.i
+.PHONY : mycp.cpp.i
+
+mycp.s: mycp.cpp.s
+
+.PHONY : mycp.s
+
+# target to generate assembly for a file
+mycp.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mycp.cpp.s
+.PHONY : mycp.cpp.s
+
+mydiff.o: mydiff.cpp.o
+
+.PHONY : mydiff.o
+
+# target to build an object file
+mydiff.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mydiff.cpp.o
+.PHONY : mydiff.cpp.o
+
+mydiff.i: mydiff.cpp.i
+
+.PHONY : mydiff.i
+
+# target to preprocess a source file
+mydiff.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mydiff.cpp.i
+.PHONY : mydiff.cpp.i
+
+mydiff.s: mydiff.cpp.s
+
+.PHONY : mydiff.s
+
+# target to generate assembly for a file
+mydiff.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mydiff.cpp.s
+.PHONY : mydiff.cpp.s
+
+myls.o: myls.cpp.o
+
+.PHONY : myls.o
+
+# target to build an object file
+myls.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/myls.cpp.o
+.PHONY : myls.cpp.o
+
+myls.i: myls.cpp.i
+
+.PHONY : myls.i
+
+# target to preprocess a source file
+myls.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/myls.cpp.i
+.PHONY : myls.cpp.i
+
+myls.s: myls.cpp.s
+
+.PHONY : myls.s
+
+# target to generate assembly for a file
+myls.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/myls.cpp.s
+.PHONY : myls.cpp.s
+
+mymv.o: mymv.cpp.o
+
+.PHONY : mymv.o
+
+# target to build an object file
+mymv.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mymv.cpp.o
+.PHONY : mymv.cpp.o
+
+mymv.i: mymv.cpp.i
+
+.PHONY : mymv.i
+
+# target to preprocess a source file
+mymv.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mymv.cpp.i
+.PHONY : mymv.cpp.i
+
+mymv.s: mymv.cpp.s
+
+.PHONY : mymv.s
+
+# target to generate assembly for a file
+mymv.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mymv.cpp.s
+.PHONY : mymv.cpp.s
+
+myrm.o: myrm.cpp.o
+
+.PHONY : myrm.o
+
+# target to build an object file
+myrm.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/myrm.cpp.o
+.PHONY : myrm.cpp.o
+
+myrm.i: myrm.cpp.i
+
+.PHONY : myrm.i
+
+# target to preprocess a source file
+myrm.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/myrm.cpp.i
+.PHONY : myrm.cpp.i
+
+myrm.s: myrm.cpp.s
+
+.PHONY : myrm.s
+
+# target to generate assembly for a file
+myrm.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/myrm.cpp.s
+.PHONY : myrm.cpp.s
+
+mystat.o: mystat.cpp.o
+
+.PHONY : mystat.o
+
+# target to build an object file
+mystat.cpp.o:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mystat.cpp.o
+.PHONY : mystat.cpp.o
+
+mystat.i: mystat.cpp.i
+
+.PHONY : mystat.i
+
+# target to preprocess a source file
+mystat.cpp.i:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mystat.cpp.i
+.PHONY : mystat.cpp.i
+
+mystat.s: mystat.cpp.s
+
+.PHONY : mystat.s
+
+# target to generate assembly for a file
+mystat.cpp.s:
+	$(MAKE) -f CMakeFiles/3307.dir/build.make CMakeFiles/3307.dir/mystat.cpp.s
+.PHONY : mystat.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +381,27 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mycat.o"
+	@echo "... mycat.i"
+	@echo "... mycat.s"
+	@echo "... mycp.o"
+	@echo "... mycp.i"
+	@echo "... mycp.s"
+	@echo "... mydiff.o"
+	@echo "... mydiff.i"
+	@echo "... mydiff.s"
+	@echo "... myls.o"
+	@echo "... myls.i"
+	@echo "... myls.s"
+	@echo "... mymv.o"
+	@echo "... mymv.i"
+	@echo "... mymv.s"
+	@echo "... myrm.o"
+	@echo "... myrm.i"
+	@echo "... myrm.s"
+	@echo "... mystat.o"
+	@echo "... mystat.i"
+	@echo "... mystat.s"
 .PHONY : help
 
 

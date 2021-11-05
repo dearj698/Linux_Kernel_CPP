@@ -57,18 +57,18 @@ include CMakeFiles/3307.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/3307.dir/flags.make
 
-CMakeFiles/3307.dir/main.cpp.o: CMakeFiles/3307.dir/flags.make
-CMakeFiles/3307.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/3307.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/main.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/main.cpp
+CMakeFiles/3307.dir/mystat.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/mystat.cpp.o: ../mystat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/3307.dir/mystat.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/mystat.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/mystat.cpp
 
-CMakeFiles/3307.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/main.cpp > CMakeFiles/3307.dir/main.cpp.i
+CMakeFiles/3307.dir/mystat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/mystat.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/mystat.cpp > CMakeFiles/3307.dir/mystat.cpp.i
 
-CMakeFiles/3307.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/main.cpp -o CMakeFiles/3307.dir/main.cpp.s
+CMakeFiles/3307.dir/mystat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/mystat.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/mystat.cpp -o CMakeFiles/3307.dir/mystat.cpp.s
 
 CMakeFiles/3307.dir/File.cpp.o: CMakeFiles/3307.dir/flags.make
 CMakeFiles/3307.dir/File.cpp.o: ../File.cpp
@@ -83,19 +83,124 @@ CMakeFiles/3307.dir/File.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/File.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/File.cpp -o CMakeFiles/3307.dir/File.cpp.s
 
+CMakeFiles/3307.dir/mymv.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/mymv.cpp.o: ../mymv.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/3307.dir/mymv.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/mymv.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/mymv.cpp
+
+CMakeFiles/3307.dir/mymv.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/mymv.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/mymv.cpp > CMakeFiles/3307.dir/mymv.cpp.i
+
+CMakeFiles/3307.dir/mymv.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/mymv.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/mymv.cpp -o CMakeFiles/3307.dir/mymv.cpp.s
+
+CMakeFiles/3307.dir/main.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/main.cpp.o: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/3307.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/main.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/main.cpp
+
+CMakeFiles/3307.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/main.cpp > CMakeFiles/3307.dir/main.cpp.i
+
+CMakeFiles/3307.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/main.cpp -o CMakeFiles/3307.dir/main.cpp.s
+
+CMakeFiles/3307.dir/myls.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/myls.cpp.o: ../myls.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/3307.dir/myls.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/myls.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/myls.cpp
+
+CMakeFiles/3307.dir/myls.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/myls.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/myls.cpp > CMakeFiles/3307.dir/myls.cpp.i
+
+CMakeFiles/3307.dir/myls.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/myls.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/myls.cpp -o CMakeFiles/3307.dir/myls.cpp.s
+
+CMakeFiles/3307.dir/mycp.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/mycp.cpp.o: ../mycp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/3307.dir/mycp.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/mycp.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/mycp.cpp
+
+CMakeFiles/3307.dir/mycp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/mycp.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/mycp.cpp > CMakeFiles/3307.dir/mycp.cpp.i
+
+CMakeFiles/3307.dir/mycp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/mycp.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/mycp.cpp -o CMakeFiles/3307.dir/mycp.cpp.s
+
+CMakeFiles/3307.dir/myrm.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/myrm.cpp.o: ../myrm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/3307.dir/myrm.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/myrm.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/myrm.cpp
+
+CMakeFiles/3307.dir/myrm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/myrm.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/myrm.cpp > CMakeFiles/3307.dir/myrm.cpp.i
+
+CMakeFiles/3307.dir/myrm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/myrm.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/myrm.cpp -o CMakeFiles/3307.dir/myrm.cpp.s
+
+CMakeFiles/3307.dir/mycat.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/mycat.cpp.o: ../mycat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/3307.dir/mycat.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/mycat.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/mycat.cpp
+
+CMakeFiles/3307.dir/mycat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/mycat.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/mycat.cpp > CMakeFiles/3307.dir/mycat.cpp.i
+
+CMakeFiles/3307.dir/mycat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/mycat.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/mycat.cpp -o CMakeFiles/3307.dir/mycat.cpp.s
+
+CMakeFiles/3307.dir/mydiff.cpp.o: CMakeFiles/3307.dir/flags.make
+CMakeFiles/3307.dir/mydiff.cpp.o: ../mydiff.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/3307.dir/mydiff.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3307.dir/mydiff.cpp.o -c /Users/zhaohualiu/CLionProjects/3307/mydiff.cpp
+
+CMakeFiles/3307.dir/mydiff.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3307.dir/mydiff.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaohualiu/CLionProjects/3307/mydiff.cpp > CMakeFiles/3307.dir/mydiff.cpp.i
+
+CMakeFiles/3307.dir/mydiff.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3307.dir/mydiff.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaohualiu/CLionProjects/3307/mydiff.cpp -o CMakeFiles/3307.dir/mydiff.cpp.s
+
 # Object files for target 3307
 3307_OBJECTS = \
+"CMakeFiles/3307.dir/mystat.cpp.o" \
+"CMakeFiles/3307.dir/File.cpp.o" \
+"CMakeFiles/3307.dir/mymv.cpp.o" \
 "CMakeFiles/3307.dir/main.cpp.o" \
-"CMakeFiles/3307.dir/File.cpp.o"
+"CMakeFiles/3307.dir/myls.cpp.o" \
+"CMakeFiles/3307.dir/mycp.cpp.o" \
+"CMakeFiles/3307.dir/myrm.cpp.o" \
+"CMakeFiles/3307.dir/mycat.cpp.o" \
+"CMakeFiles/3307.dir/mydiff.cpp.o"
 
 # External object files for target 3307
 3307_EXTERNAL_OBJECTS =
 
-3307: CMakeFiles/3307.dir/main.cpp.o
+3307: CMakeFiles/3307.dir/mystat.cpp.o
 3307: CMakeFiles/3307.dir/File.cpp.o
+3307: CMakeFiles/3307.dir/mymv.cpp.o
+3307: CMakeFiles/3307.dir/main.cpp.o
+3307: CMakeFiles/3307.dir/myls.cpp.o
+3307: CMakeFiles/3307.dir/mycp.cpp.o
+3307: CMakeFiles/3307.dir/myrm.cpp.o
+3307: CMakeFiles/3307.dir/mycat.cpp.o
+3307: CMakeFiles/3307.dir/mydiff.cpp.o
 3307: CMakeFiles/3307.dir/build.make
 3307: CMakeFiles/3307.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 3307"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhaohualiu/CLionProjects/3307/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable 3307"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/3307.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

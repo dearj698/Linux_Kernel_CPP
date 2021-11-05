@@ -1,10 +1,11 @@
-#include <iostream>
+//
+// Created by Zhaohua Liu on 2019-09-26.
+//
 
+#include <iostream>
+#include <zconf.h>
+#include "File.hpp"
 using namespace std;
-int main() {
-    string name;
-    cout << "enter your name: ";
-    getline(cin, name);
-    std::cout << "Hello! " <<name<< std::endl;
-    return 0;
+int main(){
+
 }

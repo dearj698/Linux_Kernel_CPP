@@ -6,7 +6,21 @@
 
 #IncludeRegexTransform: 
 
+/Users/zhaohualiu/CLionProjects/3307/File.hpp
+string
+-
+sys/stat.h
+-
+vector
+-
+cstdio
+-
+
 /Users/zhaohualiu/CLionProjects/3307/main.cpp
 iostream
 -
+zconf.h
+-
+File.hpp
+/Users/zhaohualiu/CLionProjects/3307/File.hpp
 

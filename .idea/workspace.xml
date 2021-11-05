@@ -12,9 +12,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ced627e-f4b8-4bcd-b2c0-92050f42f787" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/File.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/er.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/hi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycat.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydiff.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydiff.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myls.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myls.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mymv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mymv.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mymv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myrm.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myrm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystat.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wee.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/File.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/File.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File.h" beforeDir="false" afterPath="$PROJECT_DIR$/File.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File.h" beforeDir="false" afterPath="$PROJECT_DIR$/File.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/3307" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/3307.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/3307.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3307.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +81,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QyPBxWahXLOQclq3TM9YGKvZyq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,7 +129,58 @@
       <workItem from="1568747148757" duration="324000" />
       <workItem from="1568771109756" duration="4258000" />
       <workItem from="1568777071361" duration="37000" />
-      <workItem from="1568911366902" duration="7242000" />
+      <workItem from="1568911366902" duration="7513000" />
+      <workItem from="1568930359315" duration="85000" />
+      <workItem from="1569432981414" duration="12088000" />
+      <workItem from="1569515721355" duration="5857000" />
+      <workItem from="1569522637396" duration="2217000" />
+      <workItem from="1569525227723" duration="6181000" />
+      <workItem from="1569534614369" duration="465000" />
+      <workItem from="1569601153783" duration="13691000" />
+      <workItem from="1569620093101" duration="893000" />
+      <workItem from="1569621210425" duration="9957000" />
+      <workItem from="1569637849343" duration="295000" />
+      <workItem from="1569712903812" duration="1616000" />
+      <workItem from="1569714663353" duration="120000" />
+      <workItem from="1569714786023" duration="1071000" />
+      <workItem from="1569719659015" duration="342000" />
+      <workItem from="1569720798183" duration="827000" />
+      <workItem from="1569723056886" duration="44000" />
+      <workItem from="1569849567226" duration="3630000" />
+      <workItem from="1569854395833" duration="1899000" />
+      <workItem from="1569856408321" duration="260000" />
+      <workItem from="1569860993652" duration="2664000" />
+      <workItem from="1569870081208" duration="204000" />
+      <workItem from="1569871944450" duration="44000" />
+      <workItem from="1569948727937" duration="808000" />
+      <workItem from="1569950244984" duration="1431000" />
+      <workItem from="1569952418806" duration="630000" />
+      <workItem from="1569974401137" duration="2494000" />
+      <workItem from="1569982993838" duration="56000" />
+      <workItem from="1569983682315" duration="41000" />
+      <workItem from="1570040279776" duration="132000" />
+      <workItem from="1570054759706" duration="334000" />
+      <workItem from="1570074255999" duration="304000" />
+      <workItem from="1570386034050" duration="16000" />
+      <workItem from="1571017594038" duration="62000" />
+      <workItem from="1571017734059" duration="603000" />
+      <workItem from="1571097635175" duration="12000" />
+      <workItem from="1571700527145" duration="8000" />
+      <workItem from="1571700780269" duration="11000" />
+      <workItem from="1571700815754" duration="14000" />
+      <workItem from="1571701115644" duration="15000" />
+      <workItem from="1571702387964" duration="600000" />
+      <workItem from="1571761102826" duration="18000" />
+      <workItem from="1576716624585" duration="128000" />
+      <workItem from="1601229650610" duration="46000" />
+      <workItem from="1601229751477" duration="3627000" />
+      <workItem from="1601317732329" duration="1176000" />
+      <workItem from="1601827387632" duration="18000" />
+      <workItem from="1601827413064" duration="20000" />
+      <workItem from="1606611450172" duration="1072000" />
+      <workItem from="1606675631418" duration="1482000" />
+      <workItem from="1606778369400" duration="875000" />
+      <workItem from="1606786476010" duration="14000" />
     </task>
     <servers />
   </component>
@@ -93,5 +199,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
